@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_drawer_item_titles">
+        <item>Search</item>
+        <item>Recent searches</item>
+        <item>Favorites</item>
+        <item>About</item>
+    </string-array>
+
+    <array name="home_drawer_item_icons">
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_time</item>
+        <item>@drawable/ic_action_important</item>
+        <item>@drawable/ic_action_about</item>
+    </array>
+
+    <string-array name="home_drawer_fragments">
+        <item>com.shaan.oeis.SearchFragment</item>
+        <item>com.shaan.oeis.RecentSearchesFragment</item>
+        <item>com.shaan.oeis.FavoritesFragment</item>
+        <item>com.shaan.oeis.AboutFragment</item>
+    </string-array>
+</resources>

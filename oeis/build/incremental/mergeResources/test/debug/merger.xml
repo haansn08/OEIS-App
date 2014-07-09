@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/shaan/AndroidStudioProjects/OEIS/oeis/src/androidTest/res" />
+        <source path="/home/shaan/AndroidStudioProjects/OEIS/oeis/build/res/rs/test/debug" />
+        <source path="/home/shaan/AndroidStudioProjects/OEIS/oeis/build/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

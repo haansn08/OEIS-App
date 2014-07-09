@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OEIS</string>
+    <string name="search_hint">Search for a sequence, a word or a sequence number</string>
+    <string name="action_search">Search OEIS</string>
+    <string name="searches_clear">Clear history</string>
+    <string name="sequence_favorite">Favorite sequence</string>
+    <string name="oeis_logo">OEIS Logo</string>
+    <string name="oeis_written"><![CDATA[<a href=\'http://www.oeis.org/\'>The On-Line Encyclopedia of Integer Sequences</a>]]></string>
+    <string name="copyright">OEIS App Copyright © Stefan Haan 2014</string>
+    <string name="oeis_license"><![CDATA[The OEIS is made available under the <a href=\'http://creativecommons.org/licenses/by-nc/3.0/\'>Creative Commons Attribution Non-Commercial 3.0 license</a>]]></string>
+    <string name="app_license"><![CDATA[This app is <i>free Software</i>. That means you are free to copy, modify and redistribute the software.\nYou can obtain a copy of the source code at <a href=\'?\'>github.com</a>]]></string>
+</resources>

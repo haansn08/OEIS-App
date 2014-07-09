@@ -1,0 +1,24 @@
+%I A000001 Identification line (required)
+%S A000001 First line of unsigned sequence (required)
+%T A000001 2nd line of unsigned sequence.
+%U A000001 3rd line of unsigned sequence.
+%V A000001 First line of signed sequence.
+%W A000001 2nd line of signed sequence.
+%X A000001 3rd line of signed sequence.
+%N A000001 Name (required)
+%D A000001 Detailed reference line.
+%D A000001 Detailed references (2).
+%H A000001 Link to other site.
+%H A000001 Link to other site (2).
+%F A000001 Formula.
+%F A000001 Formula (2).
+%Y A000001 Cross-references to other sequences.
+%A A000001 Author (required)
+%O A000001 Offset (required)
+%E A000001 Extensions, errors, etc.
+%e A000001 examples to illustrate initial terms.
+%p A000001 Maple program.
+%t A000001 Mathematica program.
+%o A000001 Program in another language.
+%K A000001 Keywords (required)
+%C A000001 Comments.

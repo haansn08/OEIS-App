@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ListView
+        android:id="@+id/recent_searches_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+    <ProgressBar
+        android:id="@+id/recent_searches_progress"
+        android:layout_width="@dimen/abc_action_bar_progress_bar_size"
+        android:layout_height="@dimen/abc_action_bar_progress_bar_size"
+        android:layout_centerInParent="true"/>
+</RelativeLayout><!-- From: file:/home/shaan/AndroidStudioProjects/OEIS/oeis/src/main/res/layout/recent_searches_fragment.xml -->
